@@ -49,7 +49,13 @@ javac QuizGUI.java
 2. Run the program:
 ```bash
 java QuizGUI
+
+## Demo Video
+
+[Watch Project Demo](https://youtu.be/YQ4dkMn2COQ)
 ```
 
 ## Author
 Manya Chourasiya
+
+
