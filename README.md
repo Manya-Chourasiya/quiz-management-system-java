@@ -25,6 +25,20 @@ A Java-based Quiz Management System developed using Java AWT/Swing and Object-Or
 - Exception Handling
 - File I/O
 
+## Screenshots
+
+### Login Page
+![Login Page](screenshot/Login_Page.png)
+
+### Teacher Panel
+![Teacher Panel](screenshot/Teacher's_Panel.png)
+
+### Student Panel
+![Student Panel](screenshot/Student's_Panel.png)
+
+### Quiz Results
+![Quiz Results](screenshot/Results.png)
+
 ## How to Run
 
 1. Compile the program:
